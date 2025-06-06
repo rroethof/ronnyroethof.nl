@@ -1,0 +1,22 @@
+{% assign profile = site.data.data.profile %}
+{% if profile %}
+<section class="career-profile">
+    <h2 class="title">Career Profile</h2>
+    <div class="details">{{profile}}</div>
+</section>
+{% endif %}
+
+{% assign specialities = site.data.data.specialities %}
+{% if specialities %}
+<br>
+<section class="specialities">
+    <div class="details">
+        My specialization lies in the following areas of knowledge:
+        <ul>
+        {% for speciality in specialities %}
+            <li>{{speciality.idiom}}</li>
+        {% endfor %}
+        </ul>
+    </div>
+</section>
+{% endif %}

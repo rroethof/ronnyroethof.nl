@@ -1,0 +1,16 @@
+title: Resume of Ronny Roethof
+description:  Resume of Ronny Roethof
+url: https://ronnyroethof.nl
+baseurl: ''
+theme_skin: blue
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+    - jekyll-minifier
+
+exclude:
+  - docker-compose.yml
+  - vendor

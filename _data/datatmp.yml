@@ -1,0 +1,363 @@
+name: Ronny Roethof
+support_dark_mode: true
+fork: true
+
+# Sidebar
+contact:
+  email: ronny@roethof.net
+  github: rroethof
+  linkedin: rroethof
+  phone: +31 6 29383572
+
+languages:
+  - idiom: Dutch
+  - idiom: English
+
+education:
+  - degree: Mavo D
+    time: 1995
+    university: Scholen Gemeenschap Lelystad
+
+  - degree: LPIC 101
+    time: 2013
+
+  - degree: LPIC 102
+    time: 2013
+
+  - degree: ITIL Foundation
+    time: 2013
+
+  - degree: RHCE (RHEL7)
+    time: 2016
+    
+skills:
+  - category: Operating Systems
+    skill: 
+      - Debian
+      - FreeBSD
+      - Red Hat
+      - CentOS
+      - OpenBSD
+      - SUSE
+      - Ubuntu
+      - Mac OS
+      - Microsoft Windows server
+  - category: Virtualisation
+    skill:
+      - Proxmox
+      - VMware
+      - Docker
+      - KVM
+      - Azure
+      - CloudStack
+      - XEN
+  - category: Automation
+    skill:
+      - Ansible
+      - Git
+      - Puppet
+      - Subversion
+  - category: Hardware
+    skill:
+      - Dell
+      - EMC
+      - HP
+      - Huawei
+      - IBM
+      - SuperMicro
+  - category: Databases
+    skill:
+      - MySQL
+      - OpenLDAP
+      - PostgresQL
+  - category: Networks
+    skill:
+      - A10 Loadbalancing
+      - Cisco Firewalls
+      - Cisco Switches
+      - F5 Big IP
+      - Fortigate
+      - Huawei Switches
+      - Juniper Switches
+  - category: Monitor
+    skill:
+      - Cacti
+      - Elastic Search
+      - Graphite
+      - Icinga
+      - Kibana
+      - Logstash
+      - Nagios
+      - Zabbix
+  - category: Methods
+    skill:
+      - ITIL
+      - SCRUM
+
+# Profile
+profile: |
+  I am a driven IT specialist with extensive all-round knowledge of Linux, Security and Networking.
+  My passion lies in Open Source, Cloud solutions, High Availability solutions and Security.
+  I have gained relevant work experience in the roles of Linux System Administrator, Technical Specialist, Architect, Team Lead and Security Engineer.
+  With this experience within complex work environments and my unprecedented interest in new techniques I do not shy away from a challenge.  
+
+specialities:
+  - idiom: System Administrator
+  - idiom: System Architect 
+  - idiom: Security Engineer
+  - idiom: Linux Automation Specialist 
+  - idiom: Linux Migration Specialist
+
+# Experience
+experience:
+  - role: Devops Engineer / Internal IT / Security Officer
+    time: June 2022-Present
+    company: AnyLinQ B.V.
+    details: |
+      Within AnyLinQ, I handled various Linux/Unix and Open Source tasks, internal and external.
+      Responsible for internal IT, hardware, network and software.
+      Responsible for Security & ISO 27001 certifications. 
+      Responsible for providing secure, fast and reliable access to data and applications for our employees.
+    technologies_used: | 
+      VMWare, Proxmox, Debian, FreeBSD, RedHat, Windows, Azure, Ansible, Huawei, Fortigate, GDPR, ISO27001, ISO27002, NIS2
+  
+  - role: Security Consultant / Pentester
+    time: November 2021–June 2022
+    company: AnyLinQ B.V.
+    details: |
+      Within AnyLinQ I was engaged in various security tests of websites, infrastructures and applications of clients. 
+      This resulted in a more secure environment for various clients.
+    technologies_used: | 
+      Kali, Debian, Ubuntu, VMWare, Ansible, Cisco, Juniper, Huawei, Fortigate
+
+  - role: Area Product Owner / Teamlead / Architect / Senior System Engineer
+    time: October 2020–November 2021
+    company: RIVM / KNMI (Detached)
+    details: |
+      Product Area Owner, Team Lead and Senior Engineer of the Specific Hosting team of SSC Campus. 
+      The dedicated hosting team is responsible for the hosting services RIVM.nl and KNMI.nl, among other things. 
+      One of the major projects of Specific Hosting is the National Immunisation Programme with the associated Covid 19 vaccination registration.
+    technologies_used: | 
+      1000+ virtual servers, VMWare, RedHat, Ansible, Gitlab, Satelite, IPA, MySQL, PostgresQL
+
+  - role: Developer / Senior System Engineer
+    time: Juli 2019–September 2020 
+    company: Non disclosed (Detached)
+    details: |
+      Due to the high secured environment and duty of confidentiality, it is not possible to elaborate on the assignment or its activities.
+      It is closely related to Public Key Infrastructure, data encryption, and highly secure computing environments.
+    technologies_used: | 
+      100+ virtual servers, VMWare, RedHat, PHP, Python, Ansible Tower, Gitlab, Satellite  
+
+  - role: Senior System Engineer
+    time: May 2017–June 2019
+    company: Neostrada B.V.
+    details: |
+      In this position I was part of a team of 3 people who were responsible for the management of about 500 physical hosting servers, 3500 virtual machines and a 5 petabyte offsite backup platform.
+      The hosting servers require a 24/7 99.995% uptime and run in a high availability cluster environment with 24/7 monitoring and monitoring.
+    technologies_used: | 
+      500+ physical servers, 3500+ virtual servers, CloudLinux, CentOS, Debian, Ubuntu, FreeBSD, Apache, Nginx, Exim, cPanel, DirectAdmin, NFS, ZFS, Ceph, Ansible, KVM, Proxmox, Ceph, Docker, Huawei Switches, HP Switches, Dell PowerEdge, HP Proliant, SuperMicro
+
+  - role: Senior System Engineer
+    time: January 2017–March 2017 
+    company: Liberty Global B.V. (Detached)
+    details: |
+      At Liberty Global, I was part of a team of 9 people, which was responsible for designing and building the 
+      Operational Data Hub, part of the One Back Office platform. 
+      The basis of the ODH platform can be deployed to perform real-time performance analytics on CPEs, 
+      BSS and OSS based on real-time data.
+    technologies_used: | 
+      100+ physical servers, RedHat, Ansible, Zookeeper, Kafka, Flume, Hdfs, Spark, Logstash, Elasticsearch 
+      
+  - role: Security Consultant
+    time: November 2016–Januari 2017 
+    company: Ultimum B.V.
+    details: |
+      Within Ultimum I was engaged in various security tests of websites, infrastructures and applications of clients, hosting workshops for colleagues and clients.
+      This resulted in a more secure environment for various clients, a higher level of knowledge regarding internet security among employees and more stable and secure websites. 
+    technologies_used: | 
+      100+ virtual servers, Kali, Debian, Ubuntu, VMWare, Ansible
+      
+  - role: DevOps Engineer / Automation Specialist
+    time: August 2016–November 2016 
+    company: Meyn B.V. (Detached) 
+    details: |
+      At this company I was hired to develop a deployment system for various virtualization techniques and in-house software products. 
+      The customer's requirement was a central platform based on Kickstart and Ansible, from which the entire virtualization platform could be deployed and managed at remote locations using simple methods.  
+    technologies_used: | 
+      10 physical servers, CentOs, Ansible, Citrix XenServer, CentOS 7, Git, Ansible, Icinga, Ruby, Perl, Kickstart, Dell PowerEdge
+      
+  - role: Senior System Engineer
+    time: June 2016–August 2016 
+    company: Ultimum Managed Services (Internal projects) 
+    details: |
+      Within Ultimum, I handled various Linux/Unix and Open Source tasks, including management and migrations of
+      complex customer platforms (Slackware 13, Keepalive, Zebra, Openvpn and Amazon, among others)
+    technologies_used: | 
+      100+ virtual servers, RedHat, CentOS, Debian, Ubunut, SlackWare, Amazon AWS, VMWare, Ansible, Puppet, Nagios, Docker, PRTG, Zabbix, PHP
+
+  - role: Senior System Engineer / Monitoring Architect
+    time: March 2016–June 2016 
+    company: SLTN (Detached)
+    details: |
+      SLTN had a need for a 24/7 monitoring platform for a large telecom supplier, due to the complexity of the platform and network I was asked to develop it. 
+      As the end result a central monitoring system where multiple locations can be managed, rollout of new controls through an automated system.
+      All within the requirements of the end customer, taking into account their security requirements through VPN tunnels, Encryption, SSL, etc. was delivered. 
+    technologies_used: | 
+      6 monitoring nodes for 1000+ systems, CentOS, Nagios, MySQL, Ansible, HP Blades, HP 3PAR Storage, HP Switches and Routers.       
+
+  - role: Senior System Engineer / Database Specialist / Recovery Specialist
+    time: January 2016-March 2016  
+    company: Merus N.V. (Detached)
+    details: |
+      For Merus, I was asked to replace an outdated database platform with various problems, with a new PostgresQL cluster virtualized on HyperV.  
+    technologies_used: | 
+      5 physical servers, Windows Server, Debian, HyperV, PostgresQL      
+
+  - role: Senior System Engineer / Network Engineer
+    time: February 2015-November 2015 
+    company: FD Mediagroep B.V. (Detached)
+    details: |
+      Within FD Media Group I dealt with all Linux / Solaris systems, network equipment, Storage systems and related other hard/software 
+    technologies_used: | 
+      100+ virtual servers, CentOS, Debian, Ubuntu, Solaris, VMWare, Ansible, Nagios, Cisco, HP Procurve, HP Lefthand
+
+  - role: Senior System Engineer
+    time: February 2014-February 2015 
+    company: Tele2 Nederland B.V. (Detached)
+    details: |
+      Within Tele2 I dealt with all Linux, HP-UX, Solaris, SUNOS systems and related other hardware/software, including F5/A10 load balancers, Cisco Contents switches.
+      Projects within this assignment included: 
+      <ul>
+      <li>Setting up an emergency high availability load balancing system for 9292.nl based on HA Proxy, KeepAlived and Nginx.</li>
+      <li>Setting up a high availability LDAP system for Tele2 4G consumer data.</li>
+      <li>Designing a central system logging setup based on Logstash, Elasticsearch, Kibana and Graphite.</li>
+      </ul>
+    technologies_used: | 
+      100 physical servers, RedHat, Centos, Debian, Solaris, VMWare, OpenLDAP, Active Directory, Dell Netvault, Dell PowerEdge, HP Proliant, F5 BigIP, A10 Loadbalancers
+      
+  - role: NOC Engineer 
+    time: January 2013-February 2014 
+    company: eBay Classifieds Group (Detached)
+    details: |
+      eBay Classifieds Group hired me as part of a large group of NOC Engineers to monitor and develop monitoring tools of various platforms, including ebay.com, marktplaats.nl and 2ehands.be, among others. 
+    technologies_used: | 
+      2000+ virtual servers, Debian, Ubuntu, SVN, Mercurial, Git, Puppet, Nagios, Graphite, Cacti
+
+  - role: Senior System Engineer 
+    time: January 2012-December 2012 
+    company: YourHosting B.V.
+    details: |
+      Within Yourhosting, I dealt with all Linux hosting servers. 
+      I was also involved in various projects, where I provided the technical input or designs. 
+      At this employer I was responsible for the following projects:
+      <ul>
+      <li>Design, implementation and maintenance webmail cluster</li> 
+      <li>Design, implementation and maintenance of KVM virtualisation clusters</li>
+      <li>Design, implementation and maintenance of Puppet in combination with Passenger configuration systems</li>
+      </ul>
+    technologies_used: | 
+      100+ physical servers, Dell PowerEdge, CentOS, Ubuntu, Apache, MySQL, Postfix, SendMail, Courier, Git, Puppet, Nagios, Graphite, Cacti 
+
+  - role: Senior System Engineer 
+    time: April 2011-December 2011  
+    company: News Service Europe B.V.   
+    details: |
+      Within News-Service I dealt with all Debian Linux systems running there and the UseNet platform based on it. 
+      News-Service Europe was one of the top 3 newsgroup providers in the world with 24/7 support and monitoring, driven by a 7-man team.  
+      News-Service had, as a healthy company, to cease its operations by external factors. As a result followed the termination of all employments.
+    technologies_used: | 
+      500 physical servers, Dell PowerEdge, Dell PowerVault, SuperMicro Storage, Debian, MySQL, PostgresQL, KVM, Apache, Postfix, Spamassassin, Nagios, Diablo NNTP 
+
+  - role: Senior System Engineer / Network Engineer
+    time: Sept 2010-April 2011   
+    company: ACN Europe B.V.   
+    details: |
+      Within ACN Europe I was involved with all Linux OS systems running there and I developed various toolings based on Open Source Software. In addition, I was the backup administrator for the Windows OS platform and network management. 
+      At this employer I was responsible for the following:
+      <ul>
+      <li>Design, implementation and maintenance VMWare clusters </li>
+      <li>Design, implementation and maintenance of Puppet configuration systems </li>
+      <li>Design, implementation and maintenance of Squid web filters </li>
+      <li>Design, implementation, conversion, migration from Exchange to Zimbra </li>
+      <li>Implementation and maintenance of Zabbix monitoring solution </li>
+      <li>Backup network Engineer (Juniper SRX240/EX4200 / Cisco 9513/3650) </li>
+      <li>Backup Windows Engineer (Windows 2003 / 2008)</li>
+      </ul>
+    technologies_used: | 
+      100+ physical servers, HP Proliant, HP BladeCenters, VMWare, CentOS, Windows 2003/ 2008, Cisco IOS, JunOS, MySQL, Apache, Postfix, Spamassassin, Zabbix, Zimbra, Samba, IIS 7, MS Exchange 2003/2010, Active Directory, Cisco switches, Cisco routers, Juniper switches, Juniper firewalls, EMCSAN storage 
+
+  - role: Senior System Engineer / Internal IT
+    time: December 2008-June 2010   
+    company: Leaseweb B.V.   
+    details: |
+      I was the only Linux Engineer for one of the largest hosting parties in Europe to deal with all systems that used Linux and/or Unix. 
+      I was also involved in various projects, where I provided the technical input and was responsible for the design and implementation of these projects. 
+      The department provided support to approximately 130 workstations, as well as the management and development of more than 250 physical and virtual servers and appliances. 
+      In addition, the department was responsible for all customer facing servers.
+      At this employer I was responsible for the following:
+      <ul>
+      <li>Design, implementation, and maintenance of internal network (Cisco ASA/2950/3650) </li>
+      <li>Design, implementation and maintenance VMware ESX 4 environment </li>
+      <li>Design, implementation and maintenance of internal and external DNS servers </li>
+      <li>Design, implementation and maintenance Voice Over IP telephony, faxing</li>
+      <li>Design, implementation and maintenance of Mailhosting clusters </li>
+      <li>Design, Implementation and Maintenance Web Hosting Clusters </li>
+      <li>Design, implementation and maintenance Opsview/ Nagios monitoring cluster </li>
+      <li>Providing support to the Programming department during changes </li>
+      </ul>
+    technologies_used: | 
+      5000+ physical servers, HP Proliant, HP BladeCenters, Dell PowerEdge, Supermicro, VMWare, RedHat, CentOS, Debian, 
+      Ubuntu, FreeBSD, Windows 2003/ 2008, Cisco IOS, JunOS, MySQL, Apache, Postfix, Spamassassin, Zabbix, Zimbra, Samba, IIS 7, MS Exchange 2003/2010, Active Directory, Cisco switches, Cisco routers, Juniper switches, Juniper firewalls, EMCSAN storage, Asterisk
+
+projects:
+  - title: <a href="https://github.com/AnyLinQ-B-V/template-ansible-role">Ansible role template system</a>
+    details: A template for new Ansible roles complete with github automation, funcationality and security checks
+
+  - title: <a href="https://www.government.nl/topics/coronavirus-covid-19/covid-certificate/proof-of-vaccination">Dutch National Immunisation Programme - Covid 19 vaccination registration</a>
+    details: Develop and deploy database platforms for and automated rollout of the Dutch Covid 19 vaccination registration
+
+  - title:  <a href="https://www.neostrada.nl/support/artikel/hoe-herstel-ik-een-back-up-van-mijn-website-met-autobackup.html">Autobackup</a>
+    details: |
+      Because R1soft backup has proven to be unreliable. Neostrada asked me to design an alternative backup system.
+      Autobackup, a self-designed backup solution based on FreeBSD's ZFS became the solution.
+      With AutoBackup, customers can easily restore all files, databases and even mail accounts from cPanel up to 31 days back!
+
+  - title: WSO2 - Single Sign On 
+    details: |
+      For the 4G launch of Tele2 Netherlands B.V. we created a WSO2 single sign on HA application street. 
+      This WSO2 application is used to authenticate and authorize user who are loggin in on myTele2 website and/or mobile app. 
+      Products used: Tomcat, Apache2, OpenLDAP in Master-Master replication, A10 Loadbalancers and Oracle Database.
+
+  - title: Cluster based Webmail
+    details: |
+      There was a need to replace several single host based squirrelmail webservers with one (1) dedicated webmail cluster.
+      The requirements where :
+      <ul>
+      <li>capable of multiple backend IMAP servers</li>
+      <li>capable of multiple lables i.e. yourhosting.nl, starthosting.nl, whitelable, etc.</li>
+      <li>minimize outgoing spam</li>
+      <li>High availability</li>
+      <li>Lowest costs possible</li>
+      </ul>
+      We chose for a KeepAlived, HAProxy, NGinx setup based upon a cluster of KVM nodes.
+      The backend servers all used memcached and imapproxy.
+      Outgoing filtering was done by Postfix with Amavisd, Spamassassin, ClamAV, etc, with a failover configuration.
+      We designed the platform in a matter that we could take a physical node, shut it down for maintenance en have no customer impact whatsover.
+      
+
+# Volunteering
+volunteering:
+  - time: 2019-Present
+    role: Search team member
+    company: <a href="https://veteranensearchteam.nl/">Stichting Veteranan Search Team</a>
+    details: |
+      The Veteran Search Team supports the police in the event of a missing person.
+      Here we combine the strength and knowledge of veterans and other uniformed personnel.
+      Distinctiveness lies in maintaining discipline, respect for the cause and the urge to participate among the volunteers.
+
+  - time: 2019-Present
+    role: Marketing, IT, Volunteer
+    company: <a href="https://kidsfishingderby.nl/">HVLD Kids Fishing Derby</a>
+    details: |
+      A yearly reoccuring fishing event for local kids. We provide a free of charge fishing experience for kids.
